@@ -114,7 +114,7 @@ Azure SQL Database is a relational database based on the Microsoft SQL Server da
 
 Azure Database for PostgreSQL is a cloud-based relational database solution. The server software is based on the open-source PostgreSQL database engine's community edition
 
-![img14](images/img14.JPG)
+![img14](images/img15.JPG)
 
 ## Security and Identity
 
