@@ -36,6 +36,7 @@ Customers who subscribe to Azure get access to all the services available throug
 
 ![img5](images/img5.JPG)
 ![img6](images/img6.JPG)
+![img7](images/img7.JPG)
 ## Compute
 
 Azure compute is a cloud computing solution that allows you to run cloud-based applications on demand. It provides on-demand computer resources that may often be made accessible in minutes or even seconds
@@ -47,14 +48,14 @@ Some of the most prominent services under Compute Service are:
 
 You can construct and use virtual machines in the cloud using Azure Virtual Machines. Infrastructure as a service (laaS) is provided through virtual machines, which can be used in a variety of ways
 
-![img7](images/img7.JPG)
+![img7](images/img8.JPG)
 
 ### Virtual Machine Scale Sets
 
 Scale sets are an Azure compute resource that may be used to deploy and manage a group of identical virtual machines. Virtual machine scale sets are meant to provide real auto scale when all VMs are setup the same
 
 
-![img8](images/img8.JPG)
+![img8](images/img9.JPG)
 
 ### Azure Container Instances
 
