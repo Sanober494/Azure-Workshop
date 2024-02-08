@@ -29,11 +29,11 @@ Microsoft Azure is the company's public cloud computing platform. It offers a va
 
 Customers who subscribe to Azure get access to all the services available through the Azure interface. These services allow subscribers to create cloud-based resources such as virtual machines (VMs) and databases.
 
-![img3](images/img4.jpg)
+![img4](images/img4.JPG)
 
 
 ## What are the services that Azure offers?
-![img3](images/img5.jpg)
+![img5](images/img5.JPG)
 
 ## Compute
 
