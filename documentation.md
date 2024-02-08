@@ -62,7 +62,7 @@ Scale sets are an Azure compute resource that may be used to deploy and manage a
 You can leverage Azure compute resources like Container Instances and Azure Kubernetes Service to deploy and manage containers. Containers are virtualized application environments that are lightweight
 
 
-![img9](images/img9.JPG)
+![img9](images/img10.JPG)
 
 
 ### Azure App Services
@@ -70,14 +70,14 @@ You can leverage Azure compute resources like Container Instances and Azure Kube
 You can swiftly design, deploy, and scale enterprise-grade web, mobile, and API apps on any platform with Azure App Service. App Service is a PaaS (platform as a service) solution
 
 
-![img10](images/img10.JPG)
+![img10](images/img11.JPG)
 
 ### Azure Functions
 
 When you simply care about the code that runs your service and not the underlying platform or infrastructure, functions are great
 
 
-![img11](images/img11.JPG)
+![img11](images/img12.JPG)
 
 ## Containers
 
@@ -103,12 +103,12 @@ Some of the most prominent services under Databases are:
 
 Azure Cosmos DB is a multi-model, globally distributed database service. You may increase throughput and storage across any number of Azure locations around the world in an elastic and independent manner
 
-![img12](images/img12.JPG)
+![img12](images/img13.JPG)
 
 ### Azure SQL Database
 Azure SQL Database is a relational database based on the Microsoft SQL Server database engine's most recent stable version. SQL Database is a fast, dependable, well- managed, and secure database
 
-![img13](images/img13.JPG)
+![img13](images/img14.JPG)
 
 ### Azure PostgreSQL
 
@@ -125,13 +125,13 @@ Some of the most prominent services under Security and Identity are:
 ### Azure Security Centre
 
 The Azure Security Centre provides security management and provides threat protection across workloads that involve hybrid clouds
-![img15](images/img15.JPG)
+![img15](images/img16.JPG)
 
 ### Key Vault
 
 Key Vault helps safeguard cryptographic keys and other secrets used by cloud applications and services
 
-![img16](images/img16.JPG)
+![img16](images/img17.JPG)
 
 ### Azure Active Directory
 Azure AD helps users create intelligence driven access policies to limit resource usage and manage user identities
@@ -162,16 +162,27 @@ Azure Storage is a Microsoft-managed cloud storage solution that offers high ava
 Blob Storage is a Microsoft Azure service for storing binary big objects (blobs) made up of unstructured
 material like text, photos, and videos, as well as associated metadata
 
+![img17](images/img18.JPG)
+
 ### Azure Table Storage
 Table Storage in Azure is a scalable, NoSQL, key-value data storage system for storing huge amounts of data in the cloud. This storage solution is schema less, with rows made up of key-value pairs in each table
+
+![img17](images/img19.JPG)
+
 ### Azure Queue Storage
 
 Queues have been around for a long time, and their simple FIFO (first in, first out) architecture makes them a viable solution for storing non-ordered information
 
+![img17](images/img20.JPG)
+
 ### Azure FIle Storage
 Azure Files is a cloud-based shared network file storage solution that lets administrators access native SMB file shares
 
+![img17](images/img21.JPG)
+
 ## How is Azure better than the others?
+
+![img17](images/img22.JPG)
 
 
 
