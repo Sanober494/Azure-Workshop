@@ -33,6 +33,7 @@ Customers who subscribe to Azure get access to all the services available throug
 
 
 ## What are the services that Azure offers?
+
 ![img5](images/img5.JPG)
 
 ## Compute
@@ -45,19 +46,38 @@ Some of the most prominent services under Compute Service are:
 
 
 You can construct and use virtual machines in the cloud using Azure Virtual Machines. Infrastructure as a service (laaS) is provided through virtual machines, which can be used in a variety of ways
-img
+
+![img6](images/img6.JPG)
+
 ### Virtual Machine Scale Sets
 
 Scale sets are an Azure compute resource that may be used to deploy and manage a group of identical virtual machines. Virtual machine scale sets are meant to provide real auto scale when all VMs are setup the same
+
+
+![img7](images/img7.JPG)
+
 ### Azure Container Instances
 
 You can leverage Azure compute resources like Container Instances and Azure Kubernetes Service to deploy and manage containers. Containers are virtualized application environments that are lightweight
+
+
+![img8](images/img8.JPG)
+
+
 ### Azure App Services
 
 You can swiftly design, deploy, and scale enterprise-grade web, mobile, and API apps on any platform with Azure App Service. App Service is a PaaS (platform as a service) solution
+
+
+![img9](images/img9.JPG)
+
 ### Azure Functions
 
 When you simply care about the code that runs your service and not the underlying platform or infrastructure, functions are great
+
+
+![img10](images/img10.JPG)
+
 ## Containers
 
 
