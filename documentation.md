@@ -20,7 +20,7 @@ Microsoft Azure is the company's public cloud computing platform. It offers a va
 ![img2](images/img2.jpg)
 
 
-The Azure platform is designed to assist organizations in overcoming obstacles and achieving their objectives. Its relevant services for various industries, including e-commerce, finance, and a wide range of businesses, and it is open-source compatible
+>The Azure platform is designed to assist organizations in overcoming obstacles and achieving their objectives. Its relevant services for various industries, including e-commerce, finance, and a wide range of businesses, and it is open-source compatible
 
 ![img3](images/img3.jpg)
 
