@@ -17,12 +17,12 @@ Cloud computing is the distribution of computing services via the Internet (the 
 
 Microsoft Azure is the company's public cloud computing platform. It offers a variety of cloud services, including computation, analytics, storage, and networking, allowing its users to pick and choose which ones they want to use to build and grow new applications or run old ones in the public cloud
 
-img
+![img2](images/img2.jpg)
 
 
 The Azure platform is designed to assist organizations in overcoming obstacles and achieving their objectives. Its relevant services for various industries, including e-commerce, finance, and a wide range of businesses, and it is open-source compatible
 
-img
+![img3](images/img3.jpg)
 
 ## How does Microsoft Azure Work?
 
