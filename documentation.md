@@ -9,7 +9,7 @@ Welcome to "Azure 101: A Beginner's Guide to Microsoft Azure." In this one-hour 
 
 Cloud computing is the distribution of computing services via the Internet (the cloud), including servers, storage, databases, networking, software, analytics, and intelligence, to provide faster innovation, more flexible resources, and economies of scale
 
-img
+![My Image](images/img1.jpg)
 
 
 ## What is Microsoft Azure?
