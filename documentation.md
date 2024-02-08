@@ -29,14 +29,15 @@ Microsoft Azure is the company's public cloud computing platform. It offers a va
 
 Customers who subscribe to Azure get access to all the services available through the Azure interface. These services allow subscribers to create cloud-based resources such as virtual machines (VMs) and databases.
 
+![img3](images/img4.jpg)
 
-Azure compute is a cloud computing solution that allows you to run cloud-based applications on demand. It provides on-demand computer resources that may often be made accessible in minutes or even seconds
 
 ## What are the services that Azure offers?
-
-img
+![img3](images/img5.jpg)
 
 ## Compute
+
+Azure compute is a cloud computing solution that allows you to run cloud-based applications on demand. It provides on-demand computer resources that may often be made accessible in minutes or even seconds
 
 Some of the most prominent services under Compute Service are:
 
