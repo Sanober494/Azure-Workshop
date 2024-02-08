@@ -35,7 +35,7 @@ Customers who subscribe to Azure get access to all the services available throug
 ## What are the services that Azure offers?
 
 ![img5](images/img5.JPG)
-
+![img6](images/img6.JPG)
 ## Compute
 
 Azure compute is a cloud computing solution that allows you to run cloud-based applications on demand. It provides on-demand computer resources that may often be made accessible in minutes or even seconds
@@ -47,21 +47,21 @@ Some of the most prominent services under Compute Service are:
 
 You can construct and use virtual machines in the cloud using Azure Virtual Machines. Infrastructure as a service (laaS) is provided through virtual machines, which can be used in a variety of ways
 
-![img6](images/img6.JPG)
+![img7](images/img7.JPG)
 
 ### Virtual Machine Scale Sets
 
 Scale sets are an Azure compute resource that may be used to deploy and manage a group of identical virtual machines. Virtual machine scale sets are meant to provide real auto scale when all VMs are setup the same
 
 
-![img7](images/img7.JPG)
+![img8](images/img8.JPG)
 
 ### Azure Container Instances
 
 You can leverage Azure compute resources like Container Instances and Azure Kubernetes Service to deploy and manage containers. Containers are virtualized application environments that are lightweight
 
 
-![img8](images/img8.JPG)
+![img9](images/img9.JPG)
 
 
 ### Azure App Services
@@ -69,14 +69,14 @@ You can leverage Azure compute resources like Container Instances and Azure Kube
 You can swiftly design, deploy, and scale enterprise-grade web, mobile, and API apps on any platform with Azure App Service. App Service is a PaaS (platform as a service) solution
 
 
-![img9](images/img9.JPG)
+![img10](images/img10.JPG)
 
 ### Azure Functions
 
 When you simply care about the code that runs your service and not the underlying platform or infrastructure, functions are great
 
 
-![img10](images/img10.JPG)
+![img11](images/img11.JPG)
 
 ## Containers
 
@@ -102,11 +102,18 @@ Some of the most prominent services under Databases are:
 
 Azure Cosmos DB is a multi-model, globally distributed database service. You may increase throughput and storage across any number of Azure locations around the world in an elastic and independent manner
 
+![img12](images/img12.JPG)
+
 ### Azure SQL Database
 Azure SQL Database is a relational database based on the Microsoft SQL Server database engine's most recent stable version. SQL Database is a fast, dependable, well- managed, and secure database
+
+![img13](images/img13.JPG)
+
 ### Azure PostgreSQL
 
 Azure Database for PostgreSQL is a cloud-based relational database solution. The server software is based on the open-source PostgreSQL database engine's community edition
+
+![img14](images/img14.JPG)
 
 ## Security and Identity
 
@@ -117,12 +124,18 @@ Some of the most prominent services under Security and Identity are:
 ### Azure Security Centre
 
 The Azure Security Centre provides security management and provides threat protection across workloads that involve hybrid clouds
+![img15](images/img15.JPG)
+
 ### Key Vault
 
 Key Vault helps safeguard cryptographic keys and other secrets used by cloud applications and services
 
+![img16](images/img16.JPG)
+
 ### Azure Active Directory
 Azure AD helps users create intelligence driven access policies to limit resource usage and manage user identities
+
+![img17](images/img17.JPG)
 ## Networking
 
 Network Watcher, Express Route Monitor, Azure Monitor, or VNet Terminal Access Point are all Azure networking services that can be used to monitor your network resources (TAP)
