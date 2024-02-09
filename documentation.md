@@ -55,7 +55,7 @@ You can construct and use virtual machines in the cloud using Azure Virtual Mach
 Scale sets are an Azure compute resource that may be used to deploy and manage a group of identical virtual machines. Virtual machine scale sets are meant to provide real auto scale when all VMs are setup the same
 
 
-![img8](images/img9.JPG)
+
 
 ### Azure Container Instances
 
