@@ -70,14 +70,14 @@ You can leverage Azure compute resources like Container Instances and Azure Kube
 You can swiftly design, deploy, and scale enterprise-grade web, mobile, and API apps on any platform with Azure App Service. App Service is a PaaS (platform as a service) solution
 
 
-![img10](images/img11.JPG)
+![img10](images/img10.JPG)
 
 ### Azure Functions
 
 When you simply care about the code that runs your service and not the underlying platform or infrastructure, functions are great
 
 
-![img11](images/img12.JPG)
+![img11](images/img11.JPG)
 
 ## Containers
 
@@ -103,7 +103,7 @@ Some of the most prominent services under Databases are:
 
 Azure Cosmos DB is a multi-model, globally distributed database service. You may increase throughput and storage across any number of Azure locations around the world in an elastic and independent manner
 
-![img12](images/img13.JPG)
+![img12](images/img12.JPG)
 
 ### Azure SQL Database
 Azure SQL Database is a relational database based on the Microsoft SQL Server database engine's most recent stable version. SQL Database is a fast, dependable, well- managed, and secure database
