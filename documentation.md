@@ -108,13 +108,13 @@ Azure Cosmos DB is a multi-model, globally distributed database service. You may
 ### Azure SQL Database
 Azure SQL Database is a relational database based on the Microsoft SQL Server database engine's most recent stable version. SQL Database is a fast, dependable, well- managed, and secure database
 
-![img13](images/img14.JPG)
+![img13](images/img13.JPG)
 
 ### Azure PostgreSQL
 
 Azure Database for PostgreSQL is a cloud-based relational database solution. The server software is based on the open-source PostgreSQL database engine's community edition
 
-![img14](images/img15.JPG)
+![img14](images/img14.JPG)
 
 ## Security and Identity
 
@@ -125,7 +125,7 @@ Some of the most prominent services under Security and Identity are:
 ### Azure Security Centre
 
 The Azure Security Centre provides security management and provides threat protection across workloads that involve hybrid clouds
-![img15](images/img16.JPG)
+![img15](images/img15.JPG)
 
 ### Key Vault
 
