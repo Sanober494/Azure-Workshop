@@ -131,7 +131,7 @@ The Azure Security Centre provides security management and provides threat prote
 
 Key Vault helps safeguard cryptographic keys and other secrets used by cloud applications and services
 
-![img16](images/img17.JPG)
+![img16](images/img16.JPG)
 
 ### Azure Active Directory
 Azure AD helps users create intelligence driven access policies to limit resource usage and manage user identities
