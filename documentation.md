@@ -62,7 +62,7 @@ Scale sets are an Azure compute resource that may be used to deploy and manage a
 You can leverage Azure compute resources like Container Instances and Azure Kubernetes Service to deploy and manage containers. Containers are virtualized application environments that are lightweight
 
 
-![img9](images/img10.JPG)
+![img9](images/img9.JPG)
 
 
 ### Azure App Services
